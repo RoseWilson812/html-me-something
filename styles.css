@@ -1,0 +1,72 @@
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-image: url(images/pawprintborder2.jpg);
+        background-size: 100%;
+        font-family: 'Atma';
+	font-size: 75%;
+}
+
+header,
+main,
+footer {
+	
+        background-color: #FFDAB9;
+	font-size: 1.6em;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+header h2 {
+	background-color: #FFEFD5;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+
+p {
+	padding: 1.25em;
+        line-height: 1;
+        font-size: 1.2em;
+}
+
+
+#spacing {
+  margin: 0;
+}
+#images {
+  text-align: center;
+  background-color: #FFEFD5;
+  width: 100%;
+}
+.catImage {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto
+}  
+
+footer {
+	text-align: left;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
